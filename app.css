@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(208, 156, 224);
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+ul {
+    color: rgb(65, 6, 121);
+    list-style-position: inside;
+}
